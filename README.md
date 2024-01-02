@@ -32,7 +32,7 @@ This Python application implements the Simplex method for linear programming wit
 - `simply.py`: Implementation of the Simplex method.
 - `gui.py`: Definition of the GUI using PyQt5.
 
-![s1](/Screenshots/simp1.png)
+<img src="/Screenshots/simp1.png" alt="Input" width="600">
 <br>
-![s2](/Screenshots/simp2.png)
+<img src="/Screenshots/simp2.png" alt="Output" width="600">
 
