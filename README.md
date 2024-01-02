@@ -37,3 +37,6 @@ This Python application implements the Simplex method for linear programming wit
 Provide linear programming problem details in the following format:
 
 Objective Function:
+![s1](/screenshot/simp1.png)
+![s2](/screenshot/simp1.png)
+
